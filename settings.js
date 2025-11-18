@@ -8,26 +8,26 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //owmner v card
-global.ytname = "YT: PrexzyVilla" //ur yt chanel name
+global.ytname = "ttk: @crazy.squad001" //ur ttk chanel name
 global.socialm = "IG : prexzy.ay" //ur github or insta name
-global.location = "Nigeria" //ur location
+global.location = "south Africa" //ur location
 
 //new
-global.botname = 'QUEEN NYX👸' //ur bot name
-global.ownernumber = '16582044119' //ur owner number
-global.ownername = '©Precious Ayomide' //ur owner name
-global.websitex = "https://whatsapp.com/channel/0029VapyPnMKAwEk3YuHAb3s" //"https://whatsapp.com/channel/0029VaoNzzlJJhzQTJBL5n0F"
-global.wagc = "https://chat.whatsapp.com/EletTHoIrrj2CCPFYfmdVD" //"https://whatsapp.com/channel/0029VaoNzzlJJhzQTJBL5n0F"
+global.botname = 'QUEEN NYX' //ur bot name
+global.ownernumber = 27799648540' //ur owner number
+global.ownername = 'mudau thendo' //ur owner name
+global.websitex = "https://whatsapp.com/channel/0029Vb7EosF9hXFBUaF5PT1E " //"https://whatsapp.com/channel/0029VaoNzzlJJhzQTJBL5n0F"
+global.wagc = "https://whatsapp.com/channel/0029Vb7EosF9hXFBUaF5PT1E" //"https://whatsapp.com/channel/0029VaoNzzlJJhzQTJBL5n0F"
 global.idch = '120363322892680943@newsletter'
-global.themeemoji = '🪀'
-global.wm = "NYX👸"
-global.botscript = 'https://whatsapp.com/channel/0029VapyPnMKAwEk3YuHAb3s' //'https://whatsapp.com/channel/0029VaoNzzlJJhzQTJBL5n0F' //script link
-global.packname = "Queen Nyx👸"
+global.themeemoji = '👑'
+global.wm = "NYX"
+global.botscript = 'https:https://whatsapp.com/channel/0029Vb7EosF9hXFBUaF5PT1E' //'https://whatsapp.com/channel/0029VaoNzzlJJhzQTJBL5n0F' //script link
+global.packname = "アニメ・Sector X"
 global.author = "Precious Ayomide"
-global.creator = "2349159895444@s.whatsapp.net"
+global.creator = "27799648540@s.whatsapp.net"
 global.xprefix = '.'
-global.antidelete = true
-global.premium = ["2349159895444"] // Premium User
+global.antidelete = false 
+global.premium = ["27799648540"] // Premium User
 global.hituet = 0
 global.chatModeUsers = {}; // Store chat mode status per user
 
@@ -36,11 +36,11 @@ global.typemenu = 'v8' // menu type 'v1' => 'v8'
 global.typereply = 'v4' // reply type 'v1' => 'v3'
 global.autoblocknumber = '' //set autoblock country code
 global.antiforeignnumber = '' //set anti foreign number country code
-global.welcome = false //welcome/left in groups
-global.anticall = false //bot blocks user when called
+global.welcome = true //welcome/left in groups
+global.anticall = true //bot blocks user when called
 global.autoswview = true //auto status/story view
 global.adminevent = false //show promote/demote message
-global.groupevent = false //show update messages in group chat
+global.groupevent = true //show update messages in group chat
 //msg
 global.mess = {
 	limit: 'Your limit is up <\>',
